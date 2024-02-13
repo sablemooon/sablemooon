@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sablemooon
 - 👀 I’m interested in Creative and innovative game design
-- 🌱 I’m currently learning objected oriented prog
+
 - 📫 How to reach me ...
 
 <!---
