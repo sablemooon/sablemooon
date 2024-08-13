@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sablemooon
+- 👋 Hi, I’m Tyler
+- Graduate of University of Derby in Computer Games Programming
 - 👀 I’m interested in Creative and innovative game design
 
 - 📫 How to reach me ...
